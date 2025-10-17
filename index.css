@@ -1,0 +1,9 @@
+body {
+  background: lightgray;
+}
+
+#headline {
+  font-size: 60px;
+  color: darkblue;
+  background-color: yellow;
+}
